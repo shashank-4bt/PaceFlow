@@ -1,0 +1,12 @@
+# Copy this file to android/key.properties and fill in your release keystore values.
+# NEVER commit key.properties or your .jks/.keystore file to version control.
+#
+# Generate a release keystore (one-time):
+#   keytool -genkey -v -keystore paceflow-release.jks -keyalg RSA -keysize 2048 -validity 10000 -alias paceflow
+#
+# Place the keystore file in android/ (or another secure path) and reference it below.
+
+storePassword=YOUR_KEYSTORE_PASSWORD
+keyPassword=YOUR_KEY_PASSWORD
+keyAlias=paceflow
+storeFile=paceflow-release.jks
