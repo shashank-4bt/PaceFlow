@@ -4,6 +4,12 @@
 
 Premium walking tracker for Android — high-accuracy GPS routes, progress insights, and Strava-quality shareable route cards.
 
+## Interface preview
+
+| Dashboard | Live tracking | Share Studio |
+| --- | --- | --- |
+| ![PaceFlow dashboard](docs/screenshots/paceflow-dashboard.png) | ![PaceFlow tracking](docs/screenshots/paceflow-tracking.png) | ![PaceFlow share card](docs/screenshots/paceflow-share.png) |
+
 ## Stack
 
 - Flutter 3.44+ / Dart 3.12+
