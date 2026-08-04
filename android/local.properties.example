@@ -1,0 +1,10 @@
+## This file must *not* be checked into Version Control Systems,
+## as it contains information specific to your local configuration.
+##
+## Flutter copies a template; PaceFlow also supports:
+##   MAPS_API_KEY=your_google_maps_sdk_key
+##
+## Example (do not commit real keys):
+# sdk.dir=C:\\AndroidSDK
+# flutter.sdk=C:\\flutter
+# MAPS_API_KEY=

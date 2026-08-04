@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- PaceFlow brand palette -->
+    <color name="paceflow_primary_black">#FF0B0B0B</color>
+    <color name="paceflow_emerald">#FF22C55E</color>
+    <color name="paceflow_electric_blue">#FF3B82F6</color>
+    <color name="paceflow_surface_dark">#FF141414</color>
+    <color name="paceflow_card_dark">#FF1A1A1A</color>
+    <color name="paceflow_white">#FFFFFFFF</color>
+    <color name="paceflow_splash_background">#FF0B0B0B</color>
+    <color name="paceflow_splash_accent">#FF22C55E</color>
+</resources>
